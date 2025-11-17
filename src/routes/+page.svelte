@@ -235,6 +235,19 @@
             <BookOpen class="mr-2 h-4 w-4" />
             Documentación API
           </a>
+          <a
+            href="https://api.actpanama.com/openapi.json"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-blue-400 hover:text-blue-300 transition-colors flex items-center"
+          >
+            <svg class="mr-2 h-4 w-4" fill="currentColor" viewBox="0 0 24 24">
+              <path
+                d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zM16 18H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"
+              />
+            </svg>
+            OpenAPI
+          </a>
         </div>
       </div>
 

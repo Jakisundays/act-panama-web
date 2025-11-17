@@ -174,7 +174,7 @@
 <!-- 5. FOOTER -->
 <footer class="bg-gray-900 text-white py-16">
   <div class="container mx-auto px-4">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
       <!-- Enlaces rápidos -->
       <div>
         <h3 class="text-lg font-semibold mb-4">Enlaces rápidos</h3>
@@ -190,14 +190,6 @@
             class="block text-gray-300 hover:text-white transition-colors"
           >
             Chat Web
-          </a>
-          <a
-            href="https://wa.me/50766422876"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="block text-gray-300 hover:text-white transition-colors"
-          >
-            WhatsApp
           </a>
         </div>
       </div>
@@ -215,7 +207,7 @@
             <Phone class="mr-2 h-4 w-4" />
             WhatsApp
           </a>
-          <a
+          <!-- <a
             href="https://apps.yappy.com.pa?hash=UOPGue3yMEQIJojeMXVW0TOy1w%2B4LfBBSVRWPO6ZETY%3D&key=C8hilq3a7gspEHCMmmcNCBdLI9NXgVm4RJDH-onEsOA%3D"
             target="_blank"
             rel="noopener noreferrer"
@@ -227,6 +219,21 @@
               />
             </svg>
             Donar con Yappy
+          </a> -->
+        </div>
+      </div>
+
+      <div>
+        <h3 class="text-lg font-semibold mb-4">Desarrolladores</h3>
+        <div class="space-y-2">
+          <a
+            href="https://api.actpanama.com/docs"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-blue-400 hover:text-blue-300 transition-colors flex items-center"
+          >
+            <BookOpen class="mr-2 h-4 w-4" />
+            Documentación API
           </a>
         </div>
       </div>
